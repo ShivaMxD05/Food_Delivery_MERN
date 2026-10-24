@@ -38,7 +38,7 @@
 Clone the project
 
 ```bash
-    git clone https://github.com/Mshandev/Food-Delivery
+    git clone https://github.com/ShivaMxD05/Food-Delivery
 ```
 Go to the project directory
 
